@@ -1,7 +1,7 @@
 ### Seja muito bem vindo 😁
 
-- ✌ Prazer, meu nome é Pablo, sou novo no mundo dos devs e estou sempre aprendendo.
-- 😣 No momento iniciante, não trabalho na área mas procuro por oportunidades
+- ✌ Prazer, meu nome é Pablo, sou novo no mundo dos devs e estou sempre me atualizando.
+- 😣 No momento iniciante, não trabalho na área mas procuro por oportunidades.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
